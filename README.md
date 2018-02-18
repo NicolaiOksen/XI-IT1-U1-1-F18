@@ -1,4 +1,4 @@
-![Image representing Web Development](/images/header.jpg)
+![Image representing Web Development](/Images/header.jpg)
 # XI-IT1-U1-1-F18 - Internet Technology
 
 Repository for the course XI-IT1-U1-1-F18 at University of Southern Denmark
