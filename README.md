@@ -50,14 +50,14 @@ __Websites:__
     <td>Feb. 20th 2018 12.00-16.00</td>
     <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb929423b7d0540c9a4d0/">U46</a></td>
     <td>HTML</td>
-    <td><i>Coming soon...</i></td>
+    <td><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%202/Lesson%202%20-%20HTML.pdf">PDF</a></td>
   </tr>
   <tr>
     <td style="text-align:center;">3.</td>
     <td>Feb. 27th 2018 12.00-16.00</td>
     <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cba37423b7d0540c9adb6/">U163</a></td>
     <td>CSS</td>
-    <td><i>Coming soon...</i></td>
+    <td><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%203/Lesson%203%20-%20CSS.pdf"></a></td>
   </tr>
   <tr>
     <td colspan="5" style="text-align:center;">March 6th 2018 - No lecture</td>
