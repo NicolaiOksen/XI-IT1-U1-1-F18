@@ -57,7 +57,7 @@ __Websites:__
     <td>Feb. 27th 2018 12.00-16.00</td>
     <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cba37423b7d0540c9adb6/">U163</a></td>
     <td>CSS</td>
-    <td><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%203/Lesson%203%20-%20CSS.pdf"></a></td>
+    <td><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%203/Lesson%203%20-%20CSS.pdf">PDF</a></td>
   </tr>
   <tr>
     <td colspan="5" style="text-align:center;">March 6th 2018 - No lecture</td>
