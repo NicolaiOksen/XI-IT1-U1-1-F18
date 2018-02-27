@@ -1,0 +1,39 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    height: 100vh;
+}
+
+div.container {
+    align-self: center;
+    justify-self: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 5fr auto auto auto;
+    grid-gap: 20px;
+    width: 40vw;
+}
+
+div.container img {
+    align-self: center;
+    justify-self: center;
+    grid-column: span 2;
+}
+
+div.container input {
+    grid-column: span 2;
+}
+
+div.container p {
+    justify-self: center;
+    grid-column: span 2;
+}
+
+div.container button:first-of-type {
+    justify-self: right;
+}
+
+div.container button:last-of-type {
+    justify-self: left;
+}
