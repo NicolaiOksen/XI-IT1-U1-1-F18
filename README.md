@@ -67,14 +67,14 @@ __Websites:__
     <td>Mar. 13th 2018 16.00-20.00</td>
     <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb929423b7d0540c9a4d0/">U46</a></td>
     <td>Javascript</td>
-    <td><i>Coming soon...</i></td>
+    <td><i><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%204/Lesson%204%20-%20Javascript.pdf">PDF</a></i></td>
   </tr>
   <tr>
     <td style="text-align:center;">5.</td>
     <td>Mar. 20th 2018 12.00-16.00</td>
     <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb929423b7d0540c9a4d0/">U46</a></td>
     <td>Javascript 2 - A modern approach</td>
-    <td><i>Coming soon...</i></td>
+    <td><i><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%205/Lesson%205%20-%20Advanced%20Javascript.pdf">PDF</a></i></td>
   </tr>
   <tr>
     <td style="text-align:center;">6.</td>
