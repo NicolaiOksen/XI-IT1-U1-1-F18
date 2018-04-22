@@ -1,0 +1,31 @@
+@model HomeModel
+@inject IDataService
+
+@{
+    ViewData["Title"] = "Index - MVC Example";
+}
+
+<h1>@Model.Headline</h1>
+
+<p>
+    @ExampleService.GetText()
+</p>
+
+<form asp-controller="Home">
+    <label asp-for="Id"></label>
+    <label asp-for="FirstName"></label>
+    <input asp-for="FirstName" />
+    <label asp-for="LastName"></label>
+    <input asp-for="LastName" />
+    <input type="submit" value="Go!" />
+</form>
+
+<input asp-for="FirstName" />
+
+
+<input type="text" data-val="true" 
+    data-val-required="The first name field is required" 
+    id="FirstName" name="FirstName" value="Foo" />
+
+
+

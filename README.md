@@ -88,14 +88,14 @@ __Websites:__
     <td>Apr. 10th 2018 12.00-16.00</td>
     <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cba39423b7d0540c9adc3/">U170</a></td>
     <td>Node.js, NPM, Gulp and Webpack</td>
-    <td><i>Coming soon...</i></td>
+    <td><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%207/Lesson%207%20-%20Node.js%2C%20NPM%2C%20Gulp%20and%20Webpack.pdf">PDF</a></td>
   </tr>
   <tr>
     <td style="text-align:center;">8.</td>
     <td>Apr. 17th 2018 16.00-20.00</td>
     <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb929423b7d0540c9a4d0/">U46</a></td>
     <td>.NET Core MVC and Web API</td>
-    <td><i>Coming soon...</i></td>
+    <td><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%208/Lesson%208%20-%20Dotnet%20Core.pdf">PDF</a></td>
   </tr>
   <tr>
     <td style="text-align:center;">9.</td>
