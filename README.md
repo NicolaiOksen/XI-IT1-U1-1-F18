@@ -91,35 +91,35 @@ __Websites:__
     <td><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%207/Lesson%207%20-%20Node.js%2C%20NPM%2C%20Gulp%20and%20Webpack.pdf">PDF</a></td>
   </tr>
   <tr>
-    <td style="text-align:center;">8.</td>
+    <td style="text-align:center;"></td>
     <td>Apr. 17th 2018 16.00-20.00</td>
     <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb929423b7d0540c9a4d0/">U46</a></td>
-    <td>.NET Core MVC and Web API</td>
+    <td><i>Cancelled</i></td>
+    <td><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%208/Lesson%208%20-%20Dotnet%20Core.pdf">PDF</a></td>
+  </tr>
+  <tr>
+    <td style="text-align:center;">8.</td>
+    <td>Apr. 24th 2018 16.00-20.00</td>
+    <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb929423b7d0540c9a4d0/">U46</a></td>
+    <td>.NET Core and ASP.NET Core</td>
     <td><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%208/Lesson%208%20-%20Dotnet%20Core.pdf">PDF</a></td>
   </tr>
   <tr>
     <td style="text-align:center;">9.</td>
-    <td>Apr. 24th 2018 16.00-20.00</td>
+    <td>May 1st 2018 12.00-16.00</td>
     <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb929423b7d0540c9a4d0/">U46</a></td>
-    <td>SOAP and REST + .Net Core WebAPI</td>
-    <td><i>Coming soon...</i></td>
+    <td> SOAP, REST, WebAPI and Databases</td>
+    <td><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%209/Lesson%209%20-%20SOAP-REST-WebAPI.pdf">PDF</a></td>
   </tr>
   <tr>
     <td style="text-align:center;">10.</td>
-    <td>May 1st 2018 12.00-16.00</td>
-    <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb929423b7d0540c9a4d0/">U46</a></td>
-    <td> Databases</td>
-    <td><i>Coming soon...</i></td>
-  </tr>
-  <tr>
-    <td style="text-align:center;">11.</td>
     <td>May 8th 2018 12.00-16.00</td>
     <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb929423b7d0540c9a4d0/">U46</a></td>
     <td>Testing and Security</td>
     <td><i>Coming soon...</i></td>
   </tr>
   <tr>
-    <td style="text-align:center;">12.</td>
+    <td style="text-align:center;">11.</td>
     <td>May 15th 2018 12.00-16.00</td>
     <td><i>Not known</i></td>
     <td>Recap and exam information</td>
