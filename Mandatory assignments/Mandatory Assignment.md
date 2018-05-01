@@ -55,5 +55,5 @@ Page requirements:
 If any prisoner stepped outside this line, they were shot dead.
 Hence the word deadline* :) 
 
-**Hand-in no later than May 8th, 2018 at 16.00 hours**
+**Hand-in no later than May 15th, 2018 at 16.00 hours**
 The hand-in will happen on blackboard and you will deliver the link to your GitHub repository.
