@@ -13,6 +13,11 @@ technology stack.
 
 Nicolai Birkmose Oksen, Umbraco A/S, me@nbo.codes
 
+# Exam
+
+Only elligble for students taking this as an elective subject
+Please go fill out the doodle with desired exam time: https://doodle.com/poll/kywrrh5wb7kyrtkq 
+
 ## Litterature
 
 I will be giving any homework in specific books. The litterature below is what I find good to learn web development. 
