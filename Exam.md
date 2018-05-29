@@ -8,6 +8,7 @@ It is an oral exam based upon questions known beforehand. It will be as follows:
 
 1. Draw a subject
 1. Present the subject in any way you like, max. 10-15 minutes.
+    - To be allowed to utilize the full 15 minutes, you are required to show knowledge of other subjects and relate them to the drawn subject.
     - You will have a blackboard and a projector at your disposal. It is your responsibility to keep the presentation within the time frame, so make sure you are prepared.
     - Start your computer and everything you need before the examination. Make sure your computer can connect to the projector.
     - Rehearse the presentation and have a backup strategy if your computer fails.
@@ -25,16 +26,16 @@ The student should be able to explain and show how to use below topics in a web 
 
 | # | Subjects                              | Keywords                                     |
 |---|---------------------------------------|----------------------------------------------|
-| 1 | HTML and CSS                          | DOM, CSS Selectors, element                  |
-| 2 | Javascript                            | Closures, ES201x, classes, React, Angular    |
-| 3 | Bundlers                              | Gulp, Webpack, yarn and NPM                  |
-| 4 | .NET Core and ASP.NET Core            | Web API, MVC, C#, Entity Framework           |
-| 5 | Architecture                          | Dependency Injection, MVC routing            |
-| 6 | Protocols                             | HTTP, AJAX, REST, SOAP, Client/Server        |
-| 7 | Testing                               | Unit Test, Integration test, functional test |
+| 1 | HTML                                  | DOM, element, XML, structure, attributes     |
+| 2 | CSS                                   | CSS Selectors, media queries, Grid           |
+| 3 | Javascript                            | Closures, ES201x, classes, React, Angular    |
+| 4 | Bundlers                              | Gulp, Webpack, yarn and NPM                  |
+| 5 | .NET Core and ASP.NET Core            | Web API, MVC, C#, Entity Framework           |
+| 6 | Architecture                          | Dependency Injection, MVC routing            |
+| 7 | Protocols                             | HTTP, AJAX, REST, SOAP, Client/Server        |
+| 8 | Testing                               | Unit Test, Integration test, functional test |
 
 The keywords provided for each subjects is meant as **inspiration only**. It is not a **restrictive checklist** of subjects to talk about. It is up to **you** to interpret each subject and present what you find important.
-
 
 ## Timetable
 
@@ -50,6 +51,9 @@ The time table is subject to change. If someone doesn't show up the next in line
   </tr>
   <tr>
     <td rowspan="8">9.00</td>
+    <td>miols15</td> <td>Mikkel</td> <td>Labori Olsen</td>
+  </tr>
+  <tr>
     <td>anlas15</td> <td>Antonio</td> <td>Lascari</td>
   </tr>
   <tr>
@@ -71,36 +75,32 @@ The time table is subject to change. If someone doesn't show up the next in line
     <td>jatoe14</td> <td>Jakob</td> <td>John List Tøth</td>
   </tr>
   <tr>
+    <td><b><i>12.00</i></b></td>
+    <td colspan="3"><b><i>Lunch</i></b></td>
+  </tr>
+  <tr>
+    <td rowspan="3">13.00<br></td>
     <td>jenad14</td> <td>Jebisan</td> <td>Hari Nadarajah</td>
   </tr>
   <tr>
-    <td>12.00</td>
-    <td colspan="3">Lunch</td>
-  </tr>
-  <tr>
-    <td rowspan="8">13.00<br></td>
     <td>johej15</td> <td>Joachim</td> <td>Hejlesen</td>
   </tr>
   <tr>
     <td>jobro18</td> <td>Johanna</td> <td>Annika Brosig</td>
   </tr>
   <tr>
+    <td><b><i>14.15</i></b></td>
+    <td colspan="3"><b><i>Break</i></b></td>
+  </tr>
+  <tr>
+    <td rowspan="3">14.45<br></td>
     <td>joste15</td> <td>Jonathan</td> <td>Nedergaard Steen</td>
   </tr>
   <tr>
     <td>karmo15</td> <td>Karim</td> <td>Møller</td>
   </tr>
   <tr>
-    <td>miols15</td> <td>Mikkel</td> <td>Labori Olsen</td>
-  </tr>
-  <tr>
     <td>mipik18</td> <td>Mindaugas</td> <td>Pikelis</td>
-  </tr>
-  <tr>
-    <td>nicmo15</td> <td>Niclas</td> <td>Schilling Mølby</td>
-  </tr>
-  <tr>
-    <td>nhelt15</td> <td>Niels</td> <td>Christian Heltner</td>
   </tr>
 </table>
 
@@ -134,9 +134,6 @@ The time table is subject to change. If someone doesn't show up the next in line
     <td>emvil15</td> <td>Emil</td> <td>Christian Koch Villefrance</td>
   </tr>
   <tr>
-    <td>hagao18</td> <td>Haozhan</td> <td>Gao</td>
-  </tr>
-  <tr>
     <td>jope715</td> <td>Jonas</td> <td>Ellehave Pedersen</td>
   </tr>
   <tr>
@@ -152,30 +149,30 @@ The time table is subject to change. If someone doesn't show up the next in line
     <td>kevan14 </td> <td>Kennet</td> <td>Vangsgaard</td>
   </tr>
   <tr>
-    <td>12.00 </td>
-    <td colspan="3">Lunch</td>
-  </tr>
-  <tr>
-    <td rowspan="8">13.00</td>
     <td>lasse15</td> <td>Lasse</td> <td>Toftegaard Pedersen</td>
   </tr>
   <tr>
+    <td><b><i>12.00</i></b></td>
+    <td colspan="3"><b><i>Lunch</i></b></td>
+  </tr>
+  <tr>
+    <td rowspan="9">13.00</td>
     <td>madbe15</td> <td>Mads</td> <td>Berggreen</td>
   </tr>
   <tr>
     <td>magnl15</td> <td>Magnus</td> <td>Wædele Larsen</td>
   </tr>
   <tr>
-    <td>mawet18</td> <td>Maren</td> <td>Wetzel</td>
-  </tr>
-  <tr>
     <td>mahov15</td> <td>Mathies</td> <td>Friis Hovedskou</td>
   </tr>
   <tr>
-    <td>milou18</td> <td>Michail</td> <td>Loukeris</td>
+    <td>mibje15</td> <td>Mikkel</td> <td>Brøndum Bjerg</td>
   </tr>
   <tr>
-    <td>mibje15</td> <td>Mikkel</td> <td>Brøndum Bjerg</td>
+    <td>nicmo15</td> <td>Niclas</td> <td>Schilling Mølby</td>
+  </tr>
+  <tr>
+    <td>nhelt15</td> <td>Niels</td> <td>Christian Heltner</td>
   </tr>
   <tr>
     <td>senoe14</td> <td>Sebastian</td> <td>Siig Nørgaard</td>
