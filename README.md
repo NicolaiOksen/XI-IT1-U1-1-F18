@@ -121,13 +121,13 @@ __Websites:__
     <td>May 8th 2018 12.00-16.00</td>
     <td><a href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/details/563cb929423b7d0540c9a4d0/">U46</a></td>
     <td>Testing and Security</td>
-    <td><i>Coming soon...</i></td>
+    <td><a href="https://github.com/NicolaiOksen/XI-IT1-U1-1-F18/blob/master/Presentations/Lesson%2010/Lesson%2010%20-%20Testing%20and%20Security.pdf">PDF</a></td>
   </tr>
   <tr>
     <td style="text-align:center;">11.</td>
     <td>May 15th 2018 12.00-16.00</td>
     <td><i>Not known</i></td>
     <td>Recap and exam information</td>
-    <td><i>Coming soon...</i></td>
+    <td><i>No slides for this lesson</i></td>
   </tr>
 </table>
